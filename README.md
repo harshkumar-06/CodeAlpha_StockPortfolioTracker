@@ -2,7 +2,8 @@
 
 Stock Portfolio Management Tool
 
-This project is a command-line stock portfolio management tool built with Python. Developed during my internship at [CodeAlpha], the tool enables users to manage stock portfolios, calculate real-time values, assess gains/losses, and view portfolio diversification by sector.
+This project is a command-line stock portfolio management tool built with Python, the tool enables users to manage stock portfolios, calculate real-time values, assess gains/losses, and view portfolio diversification by sector.
+
 Features
 
   - Add/Remove Stocks: Easily add or remove stock holdings to track.
